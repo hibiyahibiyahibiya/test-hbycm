@@ -1,10 +1,10 @@
 <template>
   <div id="header">
     <h1>百周年記念資料館</h1>
-    <a href="https://github.com/hibiyahibiyahibiya/test-hbycm" style="margin-right: 30px;">
-      <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40">
+    <a href="https://github.com/hibiyahibiyahibiya/test-hbycm" style="margin-right: 30px">
+      <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40" />
     </a>
-      </div>
+  </div>
 </template>
 
 <style scoped>
@@ -20,6 +20,7 @@
 }
 
 h1 {
+  font-size: 170%;
   font-family: serif;
   font-weight: bold;
   margin-right: auto;
