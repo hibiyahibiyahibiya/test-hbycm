@@ -24,9 +24,9 @@ import Border from '../components/BorderItem.vue'
   <Border />
 
   <div style="margin: 25px">
-    <RouterLink to="/">例1 </RouterLink><br />
-    <RouterLink to="/ex2">例2 </RouterLink><br />
-    <RouterLink to="/ex3">例3 </RouterLink>
+    <p>何らかの内容</p>
+    <p>何らかの内容</p>
+    <p>何らかの内容</p>
   </div>
 </template>
 
