@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
-import CollectionView from '../views/CollectionView.vue'
+import Example1 from '../views/Example1.vue'
 import TestItem1 from '../components/TestItem1.vue'
 
 const router = createRouter({
@@ -14,7 +14,7 @@ const router = createRouter({
     {
       path: '/collections',
       name: 'collections',
-      component: CollectionView,
+      component: Example1,
       children: [
         {
           path: 'test1',
